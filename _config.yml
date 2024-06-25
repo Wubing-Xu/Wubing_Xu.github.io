@@ -329,8 +329,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
 header:
-  image: /assets/images/Wubing_test.jpg
+  image: /assets/images/Wubing_test.JPG
   image_description: "A description of the image"  
 
 

@@ -329,6 +329,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+# _pages
   header:
     image: /assets/images/Wubing_test.JPG
     image_description: "A description of the image"
